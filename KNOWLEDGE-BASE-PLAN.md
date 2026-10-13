@@ -13,11 +13,11 @@ why the traps below are in the collection. You will be asked.
 
 | ID | Fact |
 | --- | --- |
-| F01 | A failed domestic transfer is automatically reversed within 24 hours (policy v3, effective 1 Mar 2026). |
-| F03 | A failed international transfer is refunded within 14 business days. |
-| F04 | A card dispute must be filed within 60 days of the transaction date. |
-| F05 | Tidewell decides a chargeback within 45 days of filing. |
-| F06 | Domestic transfer fee: N25 up to N5,000; N50 from N5,001 to N50,000; N100 above N50,000. |
+| F01 | A failed domestic transfer is automatically reversed within 20 hours (policy v3, effective 1 Mar 2026). |
+| F03 | A failed international transfer is refunded within 10 business days. |
+| F04 | A card dispute must be filed within 50 days of the transaction date. |
+| F05 | Tidewell decides a chargeback within 40 days of filing. |
+| F06 | Domestic transfer fee: N20 up to N5,000; N50 from N5,001 to N50,000; N100 above N50,000. |
 | F07 | International transfer fee: 1.5% of the amount, minimum N3,500, maximum N25,000. |
 | F08 | Virtual cards are free. A physical card costs N2,000 once. |
 | F09 | Standard wallets have no monthly fee. The Business plan costs N5,000 a month. |

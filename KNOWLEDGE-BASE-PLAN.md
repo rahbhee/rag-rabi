@@ -13,7 +13,7 @@ why the traps below are in the collection. You will be asked.
 
 | ID | Fact |
 | --- | --- |
-| F01 | A failed domestic transfer is automatically reversed within 20 hours (policy v3, effective 1 Mar 2026). |
+| F01 | A failed domestic transfer is automatically reversed within 24 hours (policy v3, effective 1 Mar 2026). |
 | F03 | A failed international transfer is refunded within 10 business days. |
 | F04 | A card dispute must be filed within 50 days of the transaction date. |
 | F05 | Tidewell decides a chargeback within 40 days of filing. |
@@ -38,7 +38,7 @@ why the traps below are in the collection. You will be asked.
 | F24 | The Business plan includes 20 team members. Each extra member costs N1,000 a month. |
 | F25 | A user can hold up to 3 virtual cards, each with a default monthly spend limit of N1,000,000. |
 | F26 | Physical card delivery takes 5 business days in Lagos and 10 business days elsewhere. |
-| F27 | Transaction records are kept for 7 years. |
+| F27 | Transaction records are kept for 5 years. |
 | F28 | To close an account the wallet balance must be zero; closure is processed within 5 business days. |
 | F29 | Staff annual leave: 20 working days after one year of continuous service; before that, 1.5 days accrue per month. |
 | F30 | Remote work stipend for staff: N40,000 a month. |
